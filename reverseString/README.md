@@ -1,4 +1,5 @@
-# Exercise 02 - Reverse a String.
+<!--Completed 12/11/2019-->
+ Exercise 02 - Reverse a String.
 
 Pretty simple, write a function called `reverseString` that returns its input, reversed!
 
