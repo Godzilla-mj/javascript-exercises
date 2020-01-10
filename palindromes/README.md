@@ -1,3 +1,5 @@
+<!--Completed 1/09/2020 -->
+
 # Exercise XX - palindromes
 
 Write a function that determines whether or not a given string is a palindrome.
